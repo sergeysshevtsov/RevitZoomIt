@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>RevitZoomIt</Name>
+        <Assembly>RevitZoomIt/RevitZoomIt.dll</Assembly>
+        <AddInId>9F096BC4-4C65-4D8E-A1E5-B9E28AA4C4D8</AddInId>
+        <FullClassName>RevitZoomIt.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+</RevitAddIns>
