@@ -1,6 +1,8 @@
 What Does "Zoom to Selection" Mean in Revit?
 In Revit, "Zoom to Selection" means adjusting the view so that all selected elements are centered and fit inside the visible window, making them easy to see and work with.
 
+How to use: https://youtube.com/shorts/bfC8k3XcCmU
+
 When you activate a zoom command (like from the plugin we just built), Revit:
 1. Calculates the bounding box — the smallest 3D box that contains all selected elements.
 2. Centers the view on this box.
